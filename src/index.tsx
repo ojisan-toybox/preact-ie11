@@ -8,7 +8,7 @@ const App = () => {
 };
 
 const Title = styled("h1")`
-  color: red;
+  color: blue;
 `;
 
 render(<App></App>, document.body);
